@@ -1,13 +1,4 @@
 
-from termcolor import colored, cprint
-
-init()
-#print("\33[92m" +  "on_light_green")
-#print("\33[32m" +  "on_light_green")
-
-#print("\033[38;5;28m " + "тыц")
-#print("\033[38;5;46m  " + "тыц")
-
 list_of_colors = ["\33[38;5;46m","\33[38;5;40m", "\33[38;5;10m",
                   "\33[38;5;34m", "\33[38;5;2m","\33[38;5;28m",
                   "\33[38;5;22m","\33[38;5;239m","\33[38;5;235m"]
