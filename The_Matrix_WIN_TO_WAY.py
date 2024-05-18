@@ -1,15 +1,3 @@
-import random
-import sys
-import time
-import os
-import colorama
-import copy
-
-from colorama import init
-from colorama import Fore, Back, Style
-from termcolor import colored, cprint
-
-import sys
 
 from termcolor import colored, cprint
 
